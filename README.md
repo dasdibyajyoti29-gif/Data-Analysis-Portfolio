@@ -36,12 +36,12 @@ Welcome to my portfolio! I am **Dibyajyoti Das**, a passionate and aspiring **Da
 
 ## 📂 Projects  
 
-### 1. [**Advanced Power BI Sales Dashboard**](https://github.com/your-username/Advanced-PowerBI-Sales-Dashboard)  
+### 1. [**Advanced Power BI Sales Dashboard**]([https://github.com/your-username/Advanced-PowerBI-Sales-Dashboard](https://github.com/dasdibyajyoti29-gif/E-commerce_Sales_Analysis))  
 - Built an interactive dashboard to analyze sales performance, profitability, and forecasting  
 - Applied advanced DAX measures, data modeling, and visualization best practices  
 - Delivered actionable insights for real-world decision-making  
 
-### 2. [**Amazon RME Employee Shift Dashboard (Excel)**](https://github.com/your-username/Amazon-RME-Shift-Dashboard)  
+### 2. [**Amazon RME Employee Shift Dashboard (Excel)**](https://github.com/dasdibyajyoti29-gif/Amazon_RME_Shift_Analysis)  
 - Cleaned and transformed raw shift datasets using **Power Query**  
 - Built an **interactive Excel dashboard** to track employee shifts and efficiency metrics  
 - Highlighted patterns, anomalies, and actionable insights for workforce optimization  
