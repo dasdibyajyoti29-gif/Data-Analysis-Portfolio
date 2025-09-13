@@ -49,8 +49,8 @@ Welcome to my portfolio! I am **Dibyajyoti Das**, a passionate and aspiring **Da
 ---
 
 ## 📜 Certifications  
-- **Data Visualization: Empowering Business with Effective Insights** — Tata  
-- **Power BI Job Simulation** — PwC Switzerland  
+- **Excel Skills Job Simulation** — JPMorgan Chase & Co.  
+- **• Introduction to Generative AI** — Google Cloud Skills Boost  
 
 ---
 
