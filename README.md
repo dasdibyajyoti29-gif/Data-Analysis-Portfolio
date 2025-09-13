@@ -36,7 +36,7 @@ Welcome to my portfolio! I am **Dibyajyoti Das**, a passionate and aspiring **Da
 
 ## 📂 Projects  
 
-### 1. [**Advanced Power BI Sales Dashboard**]([https://github.com/your-username/Advanced-PowerBI-Sales-Dashboard](https://github.com/dasdibyajyoti29-gif/E-commerce_Sales_Analysis))  
+### 1. [**Advanced Power BI Sales Dashboard**](https://github.com/dasdibyajyoti29-gif/E-commerce_Sales_Analysis) 
 - Built an interactive dashboard to analyze sales performance, profitability, and forecasting  
 - Applied advanced DAX measures, data modeling, and visualization best practices  
 - Delivered actionable insights for real-world decision-making  
